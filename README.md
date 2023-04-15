@@ -1,3 +1,3 @@
-# NomMaximumSuppression
+# NonMaximumSuppression
 Python実装  
 
